@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tips &#8211; Swayeb&#039;s Blog</title>
+	<atom:link href="https://swayeb.github.io/blogclass1/category/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>https://swayeb.github.io/blogclass1</link>
+	<description>Swayeb Rahman Sunny&#039;s Personal site.</description>
+	<lastBuildDate>Thu, 08 Oct 2020 09:58:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://swayeb.github.io/blogclass1/wp-content/uploads/2020/10/cropped-site-icon-32x32.png</url>
+	<title>Tips &#8211; Swayeb&#039;s Blog</title>
+	<link>https://swayeb.github.io/blogclass1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>বিয়েতে ইসলাম</title>
+		<link>https://swayeb.github.io/blogclass1/2020/10/01/%e0%a6%ac%e0%a6%bf%e0%a7%9f%e0%a7%87%e0%a6%a4%e0%a7%87-%e0%a6%87%e0%a6%b8%e0%a6%b2%e0%a6%be%e0%a6%ae/</link>
+					<comments>https://swayeb.github.io/blogclass1/2020/10/01/%e0%a6%ac%e0%a6%bf%e0%a7%9f%e0%a7%87%e0%a6%a4%e0%a7%87-%e0%a6%87%e0%a6%b8%e0%a6%b2%e0%a6%be%e0%a6%ae/#respond</comments>
+		
+		<dc:creator><![CDATA[swayeb_wp]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2020 10:44:37 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Tips]]></category>
+		<guid isPermaLink="false">https://swayeb.github.io/blogclass1/?p=39</guid>
+
+					<description><![CDATA[আমাদের অনেকের মধ্যেই ইসলামি মানুষিকতা আছে কিন্তু জীবনের সব ক্ষেত্রেই যে ইসলাম সেটা আমরা মানতে নারাজ। বিশেষ করে বিয়ের সময়তো ইসলামকে সবচেয়ে বেশি অবহেলা করা হয়। ঐদিন যেন মনে করা হয় আজকের দিনে ধর্মকে একটু সাইডে রাখো। যেই মেয়েটা সারাবছর বোরকা পরিধান করে, বিয়ের দিন সেই খুশি খুশি সাজগোজ করে শত শত নন মাহরামদের সামনে &#8230; <p class="link-more"><a href="https://swayeb.github.io/blogclass1/2020/10/01/%e0%a6%ac%e0%a6%bf%e0%a7%9f%e0%a7%87%e0%a6%a4%e0%a7%87-%e0%a6%87%e0%a6%b8%e0%a6%b2%e0%a6%be%e0%a6%ae/" class="more-link">Continue reading<span class="screen-reader-text"> "বিয়েতে ইসলাম"</span></a></p>]]></description>
+		
+					<wfw:commentRss>https://swayeb.github.io/blogclass1/2020/10/01/%e0%a6%ac%e0%a6%bf%e0%a7%9f%e0%a7%87%e0%a6%a4%e0%a7%87-%e0%a6%87%e0%a6%b8%e0%a6%b2%e0%a6%be%e0%a6%ae/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
